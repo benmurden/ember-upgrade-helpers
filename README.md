@@ -3,4 +3,4 @@ Ember.js is fast moving and can change a fair amount in a few months. Even minor
 
 ## Ember.js 1.12
 ### `in` Syntax for `{{each}}`
-[Replace all instances of the old style.]()
+[Replace all instances of the old style with RegEx.](https://github.com/benmurden/ember-upgrade-helpers/blob/master/Ember1.12/each-regex)
